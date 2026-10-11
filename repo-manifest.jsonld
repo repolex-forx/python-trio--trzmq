@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/trzmq/commit/275ce1d9272456bc44230b7c9e3dc93c318e8978",
       "git:hexsha": "275ce1d9272456bc44230b7c9e3dc93c318e8978",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

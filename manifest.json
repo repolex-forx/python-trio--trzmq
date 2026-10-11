@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-trio",
+  "repo": "trzmq",
+  "versions": [
+    {
+      "commit": "275ce1d9272456bc44230b7c9e3dc93c318e8978",
+      "parsed_at": "2026-10-11T07:44:55.828715+00:00",
+      "filetree": "filetree/275ce1d9272456bc44230b7c9e3dc93c318e8978.nq.gz",
+      "blobs": [
+        "blob/5ae330f9d0d9dd3bb564341578310a5896cf9db8.nq.gz",
+        "blob/12d553b6f869d34aebb3f7c418f8bd275bb9d36e.nq.gz",
+        "blob/bdbf33de373664be3d1a63829c7df358b4bb6e25.nq.gz",
+        "blob/24560ef62986eac2f961bcad9bce4111353cdfbd.nq.gz",
+        "blob/14ab4eff15087f5cbc887af27a8d4fdb3e6e0f69.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

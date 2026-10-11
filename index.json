@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "trzmq",
+  "versions": [
+    {
+      "commit": "275ce1d9272456bc44230b7c9e3dc93c318e8978",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:47:18.972734+00:00"
+    }
+  ]
+}
